@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning MERN Stack.<br>I have a strong understanding of JavaScript.<br>I would be very happy to work as a Freelancer or Full time.
+I'm currently learning MERN Stack.<br>I have a strong understanding of JavaScript.
 
 
 ## 🌐 Socials:
